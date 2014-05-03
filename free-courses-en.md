@@ -49,3 +49,4 @@
 
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [The Odin Project](http://www.theodinproject.com/)
